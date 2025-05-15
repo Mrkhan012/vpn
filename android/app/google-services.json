@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "962781768464",
+    "project_id": "vpnapp-411ea",
+    "storage_bucket": "vpnapp-411ea.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:962781768464:android:1594b871db3c3b67e49395",
+        "android_client_info": {
+          "package_name": "com.harshRajpurohit.freeVpn"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBoHO1hXLDwtmdBGhAv4w5sHXDEJ-Wwuxs"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
