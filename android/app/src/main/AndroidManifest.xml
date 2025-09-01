@@ -12,8 +12,8 @@
     
     <application
         android:name="${applicationName}"
-        android:label=" Indian VPN"
-        android:icon="@mipmap/ic_launcher"
+        android:label="ZenVPN"
+        android:icon="@mipmap/launcher_icon"
         tools:ignore="AllowBackup">
         
         <meta-data
